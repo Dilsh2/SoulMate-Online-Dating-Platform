@@ -1,8 +1,8 @@
 <?php require_once "controllerUserData.php"; ?>
 
 <?php 
-$email = $_SESSION['email'];
-$password = $_SESSION['password'];
+$email = $_SESSION['viladxb@gmail.com'];
+$password = $_SESSION['dilshan12345'];
 $uid = "";
 $tab1 = Array();
 $tab2 = Array();
